@@ -1,2 +1,3 @@
-This project includes lesson-notes and lab-revises which are about JAVA.  
-If you want to support this project, please use "pull-request".
+Bu proje ders notları ve lab revizeleri olmak üzere iki temel klasörden oluşur.
+
+Eğer eksik olduğunu düşündüğün bir yer var ise eksiği *pull request* yollayarak tamamlayabilirsin.
